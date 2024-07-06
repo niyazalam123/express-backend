@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "i am doing this for learning",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "start": "node index.ts"
+    "start": "node index.js"
   },
   "keywords": [
     "express",
@@ -14,7 +15,8 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.4.5",
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "mongoose": "^8.4.5"
   },
   "devDependencies": {
     "@types/node": "^20.14.10"
