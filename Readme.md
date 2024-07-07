@@ -1,0 +1,2 @@
+# when you want to push empty fulder in git , then first create empty folder then create one file inside this folder  - .gitkeep - file name and this file will be empty.
+*****basically empty file will not be push to git
